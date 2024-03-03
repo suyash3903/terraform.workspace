@@ -1,0 +1,2 @@
+ami = "ami-023c11a32b0207432" #as per region
+instance_type = "t2.micro"    #as per region (us-east-1)
